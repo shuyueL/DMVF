@@ -7,7 +7,7 @@ DMVF in our paper:
 <br>
 
 
-![alt text](https://github.com/shuyueL/FFNet/blob/master/image/framework.png "DMVF overview")
+![alt text](https://github.com/shuyueL/DMVF/blob/master/image/framework.png "DMVF overview")
 
 
 ## Environment
