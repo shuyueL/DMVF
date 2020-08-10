@@ -9,6 +9,7 @@ DMVF in our paper:
 
 ![alt text](https://github.com/shuyueL/DMVF/blob/master/image/framework.png "DMVF overview")
 
+Some fast-forwarded video examples can be found in examples/ folder.
 
 ## Environment
 
