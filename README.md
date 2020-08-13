@@ -9,7 +9,7 @@ DMVF in our paper:
 
 ![alt text](https://github.com/shuyueL/DMVF/blob/master/image/framework.png "DMVF overview")
 
-Some fast-forwarded video examples can be found in examples/ folder.
+Some fast-forwarded video examples can be found in **[Google Drive](https://drive.google.com/drive/folders/124RW1_aLwkvSIyYHvtFAFY20eSrBT-Ih?usp=sharing)**.
 
 ## Environment
 
