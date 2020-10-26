@@ -1,9 +1,9 @@
 # DMVF
 
-This repository provides the implementation for distributed Multi-agent video fast-forwarding, i.e.
+This repository provides the implementation for our 2020MM paper on distributed Multi-agent video fast-forwarding, i.e.
 DMVF in our paper:
 
-**[Distributed Multi-agent Video Fast-forwarding (to appear at MM2020)](https://arxiv.org/pdf/2008.04437.pdf)**
+**[Distributed Multi-agent Video Fast-forwarding](https://arxiv.org/pdf/2008.04437.pdf)**
 <br>
 
 
