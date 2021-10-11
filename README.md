@@ -32,4 +32,16 @@ The original data we used in paper are available from the following websites
 * VideoWeb dataset: https://vcg.ece.ucr.edu/
 
 ## Codes
-We will release our codes in the near future.
+### If only one device
+Run the following command:
+```
+python main.py
+```
+### If multiple devices
+If you want to run the experiment in a real distributed manner with multiple devices. Run the following command on each device together
+```
+python main_embedded.py data_split_offset
+```
+Remember to change the IP address and SELF_IP_IDX coreespondingly.
+
+For more details, please refer to our paper.
